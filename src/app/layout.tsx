@@ -82,7 +82,7 @@ export default function RootLayout({
                   validThrough: '2026-09-30',
                 },
               ],
-              url: 'https://pippaddlesports.com',
+              url: 'https://presqueislepaddlesports.xyz',
             }),
           }}
         />
