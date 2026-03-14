@@ -76,14 +76,14 @@ export function Footer() {
         <div className="border-t border-white/20 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-sm opacity-90">
           <p>&copy; {new Date().getFullYear()} Presque Isle Paddlesports. All rights reserved.</p>
           <p>
-            Designed by{' '}
+            Built by{' '}
             <a
-              href="https://straydesign.co"
+              href="https://straywebdesign.co"
               target="_blank"
               rel="noopener noreferrer"
               className="underline hover:opacity-100"
             >
-              straydesign.co
+              Stray Web Design
             </a>
           </p>
         </div>
